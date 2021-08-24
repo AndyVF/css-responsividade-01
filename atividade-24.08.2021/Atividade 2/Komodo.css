@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #5F7285;
+}
+
+main {
+    max-width: 790px;
+    min-width: 280px;
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    font-family:'Varela Round', sans-serif;
+    font-size: 105px;
+    color: #FFF;
+    opacity: 50%;
+    margin-left: 4%;
+}
+
+p {
+    font-size: 14px;
+    color: #FFF;
+    margin-left: 4%;
+}
+
+button {
+    background: #829DAD;;
+    border:#829DAD; 
+    font-size: 13px;
+    margin-left: 4%;
+}
+
+button:hover {
+    color: #36B0E0;
+}
+
+a { 
+    font-size: 13px;
+    margin-left: 4%;
+}
+
+img {
+    margin-left: 4%;
+    width: 70%;
+}
